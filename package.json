@@ -1,0 +1,27 @@
+{
+  "name": "bbtreats",
+  "version": "1.0.0",
+  "description": "Bark Buddy Treats",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cinks1484/bbtreats.git"
+  },
+  "keywords": [
+    "inks",
+    "store",
+    "bi"
+  ],
+  "author": "Chris and Brianna Inks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cinks1484/bbtreats/issues"
+  },
+  "homepage": "https://github.com/cinks1484/bbtreats#readme",
+  "dependencies": {
+    "hapi": "^17.2.0"
+  }
+}
