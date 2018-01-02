@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/cinks1484/bbtreats#readme",
   "dependencies": {
+    "handlebars": "^4.0.11",
     "hapi": "^17.2.0"
   }
 }
